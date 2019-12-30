@@ -1,0 +1,2 @@
+1. Belajar mengenai restful sederhana
+2. Belajar membuat restful dengan database
